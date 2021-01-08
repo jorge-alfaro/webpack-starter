@@ -2,7 +2,7 @@ import { saludar } from './js/componentes';
 import './styles.css';
 
 
-    const nombre = 'Angie';
+    const nombre = 'Jorge Alfaro';
 
     saludar(nombre);
     
